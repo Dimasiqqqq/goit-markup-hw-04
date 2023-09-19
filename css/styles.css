@@ -369,6 +369,10 @@ background-color: var(--color-span);
     height: 40px;
 }
 
+.our-team-svg {
+    fill: var(--color-background-white);
+}
+
 .our-team {
     padding: 120px 0;
     background-color: var(--color-background-white);
